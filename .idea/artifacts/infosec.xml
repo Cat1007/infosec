@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="infosec">
+    <output-path>$PROJECT_DIR$/out/artifacts/infosec</output-path>
+    <root id="archive" name="infosec.war">
+      <element id="artifact" artifact-name="infosec:war exploded" />
+    </root>
+  </artifact>
+</component>
